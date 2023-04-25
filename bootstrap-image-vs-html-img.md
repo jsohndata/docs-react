@@ -1,4 +1,4 @@
-# React: Image Bootstrap vs HTML img tag
+Bootstrap `<Image>` vs HTML `<img>`
 
 The `<Image>` component in React Bootstrap and the `<img>` HTML element serve the same purpose of displaying an image, however there are some differences.
 
