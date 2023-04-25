@@ -4,7 +4,7 @@ The `<Image>` component in React Bootstrap and the `<img>` HTML element serve th
 <br>
 
 ## `<Image>` React Bootstrap component
-This is a higher-level component that provides additional functionality such as classes for styling the image such as making it `rounded`, `circular` or `thumbnail`. It also provides the ability to add overlays and captions to images.
+This is component provides functionality such as classes for styling the image such as making it `rounded`, `circular` or `thumbnail`. It also provides the ability to add overlays and captions to images.
 
 <br>
 
