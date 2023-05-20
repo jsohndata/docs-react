@@ -16,11 +16,11 @@ CSS Modules provide a solution to this problem by encapsulating styles within a 
 }
 ```
 
-## Button.js
+## Button.jsx
 ```
 import styles from ' ./Button.module.css';
 
-function Button () {
+export default function Button () {
   return (
     <button className={styles['custom-button']}>Open Modal</button>
   );
